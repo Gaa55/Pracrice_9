@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practice9</string>
+    <string name="mdk">МДК 01.03</string>
+    <string name="laba">Лабораторная работа № 9</string>
+    <string name="C">Copyright (C) 2021</string>
+    <string name="stih">Листопад И.А.Бунин\n
+Лес, точно терем расписной,\n
+Лиловый, золотой, багряный,\n
+Веселой, пестрою стеной\n
+Стоит над светлою поляной.</string>
+</resources>
